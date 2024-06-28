@@ -1,0 +1,7 @@
+# We can pput the file name in here
+
+*.so
+*.ini
+
+
+!c.so
